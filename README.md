@@ -6,10 +6,10 @@ no update yet, im working on it
 and i will publish it after i finish the main and basic codes
 
 # How to install
-1 you need python 3.12.4 at least
+1- you need python 3.12.4 at least
 
-2 go to cmd if you`r using windows
+2- go to cmd if you`r using windows
 
-3 Chick if "tkinter", "os", "sys" is already installed (in new python its should be downloaded already)
+3- Chick if "tkinter", "os", "sys" is already installed (in new python its should be downloaded already)
 
-4 type in the cmd 'pip install NR_GUI'
+4- type in the cmd 'pip install NR_GUI'
